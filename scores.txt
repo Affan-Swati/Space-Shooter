@@ -1,0 +1,9 @@
+Affan,8530
+Hamza,7860
+Ali,7690
+Shayaan,6790
+Anzu,6785
+hassaan,6760
+affan,1250
+Ahmad,385
+Adil,48
